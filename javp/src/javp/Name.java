@@ -3,10 +3,10 @@ package javp;
 import java.util.*; 
 public class Name { 
     private final String first, last; 
-    public Name(String first, String last) 
+    public Name(String first, String last1) 
     { 
         this.first = first; 
-        this.last = last; 
+        this.last = last1; 
     } 
     public boolean equals(Object o) 
     { 
