@@ -19,11 +19,7 @@ public class ArrayExampleDay7 {
 	            int arrItem = Integer.parseInt(arrItems[i]);
 	            arr[i] = arrItem;
 	        }
-		/* for(int i =n; i>=0; i--)
-		 {
-		 	System.out.println(arr[i]);
-		 	
-		 }*/
+		
 
 	        scanner.close();
 	    }
