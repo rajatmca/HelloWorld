@@ -7,6 +7,7 @@ public class Welcome {
 		System.out.println("welcome to java");
 		System.out.println("rajat");
 		System.out.println("hi how r u");
+		
 
 	}
 
